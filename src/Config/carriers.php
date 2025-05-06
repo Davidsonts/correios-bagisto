@@ -8,7 +8,7 @@ return [
         'active' => true,
         'default_rate' => '10',
         'type'         => 'per_unit',
-        'class' => 'Webkul\Correios\Carriers\Correios',
+        'class' => 'Davidsonts\Correios\Carriers\Correios',
         'methods' => 'sedex,pac',
         'tax_handling' => 0,
         'extra_time' => 1,
